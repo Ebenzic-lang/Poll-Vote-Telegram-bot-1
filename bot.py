@@ -2,7 +2,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
 # 🔴 PUT YOUR NEW TOKEN HERE (MAKE SURE IT WORKS)
-TOKEN = "8636769004:AAGpv03DV4O5uO79Cm-U1npF6lpdxMRXCF8"
+TOKEN = "8636769004:AAETMchD7DfdxgXjzeKnKWeOZvaRpW5Bzvg"
 
 # MAIN MENU
 main_menu = ReplyKeyboardMarkup(
