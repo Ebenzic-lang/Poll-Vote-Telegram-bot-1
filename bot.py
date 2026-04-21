@@ -1,7 +1,7 @@
 from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, MessageHandler, filters
 
-TOKEN = "8647237147:AAHmSqXwzx-8jol_f_xA_4Y_EOnPxFPvF_s"
+TOKEN = "8647237147:AAFGzrFq9IafTQmbbEDB5vhvmnc-N6vfc-8"
 
 main_menu = ReplyKeyboardMarkup(
     [["START", "REPORT"], ["NOVA", "SAFECHECK"]],
